@@ -88,7 +88,7 @@ Tambien  contiene un documento general llamado [Program.c](http://Program.cd)s e
 
 ![image.png](./img/image%202.png)
 
-![Captura de pantalla 2024-11-24 222047.png](Captura_de_pantalla_2024-11-24_222047.png)
+![Captura de pantalla 2024-11-24 222047.png](./img/Captura_de_pantalla_2024-11-24_222047.png)
 
 Dentro de nuestra otra carpeta BookSoap tenemos: 
 

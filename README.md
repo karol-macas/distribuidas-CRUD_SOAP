@@ -71,7 +71,7 @@ print("Libro eliminado:", response)
 
 Dentro de nuestro servidor tendremos dos carpetas en donde iremos explicando que es lo que contiene cada una de ellas y que función tiene. 
 
-![image.png](image.png)
+![image.png](./img/image.png)
 
 Dentro de nuestra carpeta de BookService tenemos lo que es el el archivo para a configuración de un servicio de WFC en .NET. Esto esta hecho en XML y se encuentra el archivo de configuracion como web.config o app.config. 
 
